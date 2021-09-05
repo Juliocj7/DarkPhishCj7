@@ -14,9 +14,9 @@
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Sintaxis :
-bash StartCj7 -h, --help : Menú de ayuda.
-bash StartCj7 -ip        : Info IP.
-bash StartCj7 -phone     : Info número telefónico.
+* bash StartCj7 -h, --help : Menú de ayuda.
+* bash StartCj7 -ip : Información de una IP.
+* bash StartCj7 -phone : Información de un número telefónico.
 
 ## Instalación :
 

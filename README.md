@@ -28,7 +28,7 @@
 
 ## Phish_LOCK :
 ![Cj7_lockweb](https://user-images.githubusercontent.com/81049859/132144401-afd50657-7594-44c7-ada4-9ca23102280f.png)
-`Obtiene patrón unlock mediante plantillas phishing ( Enlace )`
+`Obtiene patrón unlock mediante plantilla phishing ( Enlace )`
 
 ## Phish_NCAT :
 ![Cj7_hackncat](https://user-images.githubusercontent.com/81049859/132144421-aa1dfbfa-7ade-4111-8195-3d45fc5915d2.png)

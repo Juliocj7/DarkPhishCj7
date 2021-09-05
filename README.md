@@ -10,13 +10,16 @@
 
 ## DarkPhishCj7 :
 * Increíble herramienta **Phishing**.
+* Más de 8 herramientas avanzadas en el arte del phishing.
+* Personaliza al máximo enlaces para una mejor ingeniería social.
+* Obtén las credenciales como respaldo en tu correo electrónico.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Sintaxis :
 * bash StartCj7 -h, --help : Menú de ayuda.
-* bash StartCj7 -ip : Información de una IP.
-* bash StartCj7 -phone : Información de un número telefónico.
+* bash StartCj7 -ip : Obtén información de una IP.
+* bash StartCj7 -phone : Obtén información de un número telefónico.
 
 ## Instalación :
 

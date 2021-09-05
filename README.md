@@ -13,6 +13,11 @@
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
+## Sintaxis :
+bash StartCj7 -h, --help : Menú de ayuda.
+bash StartCj7 -ip        : Info IP.
+bash StartCj7 -phone     : Info número telefónico.
+
 ## Instalación :
 
 * Para un correcto funcionamiento de la herramienta porfavor instale los [recursos básicos](https://github.com/Juliocj7/UtilsCj7) para termux :
@@ -29,7 +34,7 @@ https://github.com/Juliocj7/UtilsCj7
 
 * `chmod +x *`
 
-* `bash DarkPhishCj7`
+* `bash StartCj7`
 
 ---
 ###### `Pd: Porfavor informar cualquier error`

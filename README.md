@@ -39,7 +39,7 @@
 `Obtiene información del dispositivo víctima mediante un link ( Enlace ).`
 
 ## DarkPhishCj7 :
-* Increíble herramienta **Phishing**.
+* Increíble herramienta **Phishing** con múltiples plantillas.
 * Más de 8 herramientas avanzadas en el arte del phishing.
 * Personaliza al máximo enlaces para una mejor ingeniería social.
 * Obtén las credenciales como respaldo en tu correo electrónico.

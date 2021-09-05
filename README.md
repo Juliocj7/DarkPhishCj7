@@ -4,7 +4,8 @@
 ![Screenshot_20210904-004110_Termux](https://user-images.githubusercontent.com/81049859/132082641-d1eedb6c-d89b-4af5-b249-5a0eff267e99.png)
 
 ## Server :
-![Screenshot_20210905-182916_Termux](https://user-images.githubusercontent.com/81049859/132143705-0aa3ca86-de7a-413c-8c64-3b2850c46e4b.png)
+![Screenshot_20210905-190424_Termux](https://user-images.githubusercontent.com/81049859/132143780-5661aaf3-681b-41c4-9490-89b8ec365fb5.png)
+
 
 
 ## DarkPhishCj7 :

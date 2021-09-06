@@ -48,9 +48,10 @@
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Sintaxis :
-* bash StartCj7 -h, --help : Menú de ayuda.
-* bash StartCj7 -ip : Obtén información de una IP.
-* bash StartCj7 -phone : Obtén información de un número telefónico.
+- [x] *Linux*
+- [x] *bash StartCj7 -h, --help : Menú de ayuda.*
+- [x] *bash StartCj7 -ip : Obtén información de una IP.*
+- [x] *bash StartCj7 -phone : Obtén información de un número telefónico.*
 
 ## Instalación :
 

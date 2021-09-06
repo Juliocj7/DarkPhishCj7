@@ -6,37 +6,38 @@
 ## Server :
 ![Screenshot_20210905-190424_Termux](https://user-images.githubusercontent.com/81049859/132143780-5661aaf3-681b-41c4-9490-89b8ec365fb5.png)
 
+## Help :
+![Screenshot_20210905-200100_Termux](https://user-images.githubusercontent.com/81049859/132145141-e17eae60-4525-4f8c-9935-687482befd97.png)
+
+## StartCj7 -ip :
+![Screenshot_20210905-200316_Termux](https://user-images.githubusercontent.com/81049859/132145177-1ce70f9c-e18c-4022-8d27-1f2b4610d8e4.png)
+
+## StartCj7 -phone :
+![Screenshot_20210905-200431_Termux](https://user-images.githubusercontent.com/81049859/132145206-fd358f03-7c9a-4de6-8251-53a28ce54ad8.png)
+
 ## Dark_Phish :
 ![Cj7_darkPhish](https://user-images.githubusercontent.com/81049859/132144458-008dadc5-255c-44f8-8208-8d6d045c95bf.png)
-`Obtiene credenciales mediante plantillas phishing ( Enlace ).`
 
 ## Email_Spoofing :
 ![Cj7_spoofing](https://user-images.githubusercontent.com/81049859/132144465-c161b398-0fd2-4a0c-becc-78e0e9f6bfc7.png)
-`Obtiene credenciales mediante plantillas phishing ( Enlace + EmailSpoofing ).`
 
 ## Phish_GPS :
 ![Cj7_gpsweb](https://user-images.githubusercontent.com/81049859/132144325-4aece1d6-bcea-434b-b70d-f330ef4816fb.png)
-`Obtiene geolocalización mediante plantillas phishing ( Enlace ).`
 
 ## Phish_CAM :
 ![Cj7_camweb](https://user-images.githubusercontent.com/81049859/132144383-0d8dda81-cb98-4f29-8b8a-dccd943c9492.png)
-`Obtiene fotografías mediante plantillas phishing ( Enlace ).`
 
 ## Phish_MIC :
 ![Cj7_micweb](https://user-images.githubusercontent.com/81049859/132144394-1de1c7af-7f33-4a00-991d-c4d34d91373f.png)
-`Obtiene audio recorder mediante plantillas phishing ( Enlace ).`
 
 ## Phish_LOCK :
 ![Cj7_lockweb](https://user-images.githubusercontent.com/81049859/132144401-afd50657-7594-44c7-ada4-9ca23102280f.png)
-`Obtiene patrón unlock mediante plantilla phishing ( Enlace )`
 
 ## Phish_NCAT :
 ![Cj7_hackncat](https://user-images.githubusercontent.com/81049859/132144421-aa1dfbfa-7ade-4111-8195-3d45fc5915d2.png)
-`Obtiene credenciales mediante platilla phishing ( Script ).`
 
 ## IP_Logger_Cj7 :
 ![Cj7_iplogger](https://user-images.githubusercontent.com/81049859/132144430-1e430b44-2416-46ed-a8ed-a71e10df0362.png)
-`Obtiene información del dispositivo víctima mediante un link ( Enlace ).`
 
 ## DarkPhishCj7 :
 * Increíble herramienta **Phishing** con múltiples plantillas.

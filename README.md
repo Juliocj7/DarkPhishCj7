@@ -17,13 +17,13 @@
 ![Screenshot_20210905-190424_Termux](https://user-images.githubusercontent.com/81049859/132143780-5661aaf3-681b-41c4-9490-89b8ec365fb5.png)
 
 ## Help :
-![Screenshot_20210905-200100_Termux](https://user-images.githubusercontent.com/81049859/132145141-e17eae60-4525-4f8c-9935-687482befd97.png)
+![Screenshot_20210906-013835_Termux](https://user-images.githubusercontent.com/81049859/132167244-bc4ad0ad-ba94-40a0-987e-a4fcde26f1a7.png)
 
 ## StartCj7 -ip :
-![Screenshot_20210905-200316_Termux](https://user-images.githubusercontent.com/81049859/132145177-1ce70f9c-e18c-4022-8d27-1f2b4610d8e4.png)
+![Screenshot_20210906-014229_Termux](https://user-images.githubusercontent.com/81049859/132167262-367018ba-0ce3-46c3-9443-f96ba6ede082.png)
 
 ## StartCj7 -phone :
-![Screenshot_20210905-200431_Termux](https://user-images.githubusercontent.com/81049859/132145206-fd358f03-7c9a-4de6-8251-53a28ce54ad8.png)
+![Screenshot_20210906-014626_Termux](https://user-images.githubusercontent.com/81049859/132167284-00faae5c-391d-46ef-8ef3-4374cfec32b1.png)
 
 ## Dark_Phish :
 ![Cj7_darkPhish](https://user-images.githubusercontent.com/81049859/132144458-008dadc5-255c-44f8-8208-8d6d045c95bf.png)

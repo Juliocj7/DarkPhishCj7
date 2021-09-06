@@ -58,7 +58,7 @@
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Sintaxis :
-- [x] *bash StartCj7 : Iniciar DarkPhishCj7.*
+- [x] *bash StartCj7 : Iniciar the best tool, DarkPhishCj7.*
 - [x] *bash StartCj7 -h, --help : Menú de ayuda.*
 - [x] *bash StartCj7 -ip : Obtén información de una IP.*
 - [x] *bash StartCj7 -phone : Obtén información de un número telefónico.*

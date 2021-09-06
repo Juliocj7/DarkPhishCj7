@@ -11,13 +11,13 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20210904-004110_Termux](https://user-images.githubusercontent.com/81049859/132082641-d1eedb6c-d89b-4af5-b249-5a0eff267e99.png)
+
 
 ## Server :
 ![Screenshot_20210905-190424_Termux](https://user-images.githubusercontent.com/81049859/132143780-5661aaf3-681b-41c4-9490-89b8ec365fb5.png)
 
 ## StartCj7 -h, --help :
-![Screenshot_20210906-013835_Termux](https://user-images.githubusercontent.com/81049859/132167244-bc4ad0ad-ba94-40a0-987e-a4fcde26f1a7.png)
+
 
 ## StartCj7 -ip :
 ![Screenshot_20210906-014229_Termux](https://user-images.githubusercontent.com/81049859/132167262-367018ba-0ce3-46c3-9443-f96ba6ede082.png)
@@ -51,7 +51,7 @@
 
 ## DarkPhishCj7 :
 * Increíble herramienta **Phishing** con múltiples plantillas.
-* Más de 8 herramientas avanzadas en el arte del phishing.
+* Más de 9 herramientas avanzadas en el arte del phishing.
 * Personaliza al máximo enlaces para una mejor ingeniería social.
 * Obtén las credenciales como respaldo en tu correo electrónico.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:

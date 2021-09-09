@@ -20,7 +20,6 @@
 ## StartCj7 -h, --help :
 ![Screenshot_20210906-130232_Termux](https://user-images.githubusercontent.com/81049859/132247553-ca5a93cd-4c21-4451-9ea8-74164e22e0c8.png)
 
-
 ## StartCj7 -ip :
 ![Screenshot_20210906-014229_Termux](https://user-images.githubusercontent.com/81049859/132167262-367018ba-0ce3-46c3-9443-f96ba6ede082.png)
 
@@ -57,9 +56,9 @@
 
 ## DarkPhishCj7 :
 * Increíble herramienta **Phishing** con múltiples plantillas.
-* Más de 9 herramientas avanzadas en el arte del phishing.
-* Personaliza al máximo enlaces para una mejor ingeniería social.
-* Obtén las credenciales como respaldo en tu correo electrónico.
+* Más de **9 herramientas** avanzadas en el arte del phishing.
+* Personaliza **al máximo** enlaces para una mejor ingeniería social.
+* Obtén las **credenciales** como respaldo en tu correo electrónico.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 

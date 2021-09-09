@@ -45,7 +45,7 @@
 ![Cj7_lockweb](https://user-images.githubusercontent.com/81049859/132144401-afd50657-7594-44c7-ada4-9ca23102280f.png)
 
 ## Phish_NCAT :
-![Cj7_hackncat](https://user-images.githubusercontent.com/81049859/132144421-aa1dfbfa-7ade-4111-8195-3d45fc5915d2.png)
+
 
 ## Phish_GMAIL :
 ![Screenshot_20210906-125125_Termux](https://user-images.githubusercontent.com/81049859/132247842-4ebb7838-96d1-4338-9204-00d2f0d48254.png)

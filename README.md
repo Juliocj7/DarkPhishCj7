@@ -13,9 +13,11 @@
 ## Menú Principal :
 ![Screenshot_20210906-130002_Termux](https://user-images.githubusercontent.com/81049859/132247524-bcbf1166-f8d5-4550-aa84-6488bed5383c.png)
 
-
 ## Server :
 ![Screenshot_20210905-190424_Termux](https://user-images.githubusercontent.com/81049859/132143780-5661aaf3-681b-41c4-9490-89b8ec365fb5.png)
+
+## Personalización :
+
 
 ## StartCj7 -h, --help :
 ![Screenshot_20210906-130232_Termux](https://user-images.githubusercontent.com/81049859/132247553-ca5a93cd-4c21-4451-9ea8-74164e22e0c8.png)

@@ -16,10 +16,8 @@
 ## Server :
 ![Screenshot_20210909-223228_Termux](https://user-images.githubusercontent.com/81049859/132790295-7afb80a2-2711-4aa6-ba6b-b304df52545d.png)
 
-
 ## Personalización :
 ![Screenshot_20210909-192530_Termux](https://user-images.githubusercontent.com/81049859/132778727-770f4167-7285-433e-b80e-6837eb1a7acf.png)
-
 
 ## StartCj7 -h, --help :
 ![Screenshot_20210906-130232_Termux](https://user-images.githubusercontent.com/81049859/132247553-ca5a93cd-4c21-4451-9ea8-74164e22e0c8.png)
@@ -34,7 +32,7 @@
 ![Cj7_darkPhish](https://user-images.githubusercontent.com/81049859/132144458-008dadc5-255c-44f8-8208-8d6d045c95bf.png)
 
 ## Email_Spoofing :
-![Cj7_spoofing](https://user-images.githubusercontent.com/81049859/132144465-c161b398-0fd2-4a0c-becc-78e0e9f6bfc7.png)
+
 
 ## Phish_GPS :
 ![Cj7_gpsweb](https://user-images.githubusercontent.com/81049859/132144325-4aece1d6-bcea-434b-b70d-f330ef4816fb.png)

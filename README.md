@@ -38,7 +38,6 @@
 ![Cj7_gpsweb](https://user-images.githubusercontent.com/81049859/132144325-4aece1d6-bcea-434b-b70d-f330ef4816fb.png)
 
 ## Phish_CAM :
-![Screenshot_20210911-011556_Termux](https://user-images.githubusercontent.com/81049859/132937185-e8f74837-2792-4773-8353-44d374f50218.png)
 
 
 ## Phish_MIC :
@@ -50,13 +49,15 @@
 ## Phish_NCAT :
 ![Screenshot_20210909-140304_Termux](https://user-images.githubusercontent.com/81049859/132740058-01dc47ff-a856-40d9-804d-234a4cb36ef1.png)
 
-
 ## Phish_GMAIL :
 ![Screenshot_20210906-125125_Termux](https://user-images.githubusercontent.com/81049859/132247842-4ebb7838-96d1-4338-9204-00d2f0d48254.png)
 
-
-## IP_Logger_Cj7 :
+## IP_Logger_Cj7 1 :
 ![Cj7_iplogger](https://user-images.githubusercontent.com/81049859/132144430-1e430b44-2416-46ed-a8ed-a71e10df0362.png)
+
+## IP_Logger_Cj7 2 :
+
+
 
 ## DarkPhishCj7 :
 * Increíble herramienta **Phishing** con múltiples plantillas.

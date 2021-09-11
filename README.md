@@ -34,12 +34,10 @@
 ## Email_Spoofing :
 ![Screenshot_20210909-230318_Termux](https://user-images.githubusercontent.com/81049859/132792985-ffbe7f3b-39c2-4a54-80c4-ed3a159a9a64.png)
 
-
 ## Phish_GPS :
 ![Cj7_gpsweb](https://user-images.githubusercontent.com/81049859/132144325-4aece1d6-bcea-434b-b70d-f330ef4816fb.png)
 
 ## Phish_CAM :
-![Cj7_camweb](https://user-images.githubusercontent.com/81049859/132144383-0d8dda81-cb98-4f29-8b8a-dccd943c9492.png)
 
 ## Phish_MIC :
 ![Cj7_micweb](https://user-images.githubusercontent.com/81049859/132144394-1de1c7af-7f33-4a00-991d-c4d34d91373f.png)

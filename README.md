@@ -60,7 +60,7 @@
 
 ## DarkPhishCj7 :
 * Increíble herramienta **Phishing** con múltiples plantillas.
-* Más de **9 herramientas** avanzadas en el arte del phishing.
+* Más de **10 herramientas** avanzadas en el arte del phishing.
 * Personaliza **al máximo** enlaces para una mejor ingeniería social.
 * Obtén las **credenciales** como respaldo en tu correo electrónico.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:

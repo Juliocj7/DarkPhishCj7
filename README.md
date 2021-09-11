@@ -17,7 +17,6 @@
 ![Screenshot_20210909-223228_Termux](https://user-images.githubusercontent.com/81049859/132790295-7afb80a2-2711-4aa6-ba6b-b304df52545d.png)
 
 ## Personalización :
-![Screenshot_20210909-192530_Termux](https://user-images.githubusercontent.com/81049859/132778727-770f4167-7285-433e-b80e-6837eb1a7acf.png)
 
 ## StartCj7 -h, --help :
 ![Screenshot_20210906-130232_Termux](https://user-images.githubusercontent.com/81049859/132247553-ca5a93cd-4c21-4451-9ea8-74164e22e0c8.png)

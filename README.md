@@ -60,7 +60,7 @@
 ![Screenshot_20210911-010828_Termux](https://user-images.githubusercontent.com/81049859/132937253-707b787a-f945-476b-9368-9cb5f4d610d6.png)
 
 ## DarkPhishCj7 :
-* Increíble herramienta **Phishing** con múltiples plantillas.
+* Increíble herramienta **Phishing** con múltiples plantillas actualizadas.
 * Más de **10 herramientas** avanzadas en el arte del phishing.
 * Personaliza **al máximo** enlaces para una mejor ingeniería social.
 * Obtén las **credenciales** como respaldo en tu correo electrónico.

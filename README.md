@@ -17,7 +17,6 @@
 ![Screenshot_20210909-223228_Termux](https://user-images.githubusercontent.com/81049859/132790295-7afb80a2-2711-4aa6-ba6b-b304df52545d.png)
 
 ## Personalización :
-![Screenshot_20210911-081412_Termux](https://user-images.githubusercontent.com/81049859/132947582-de925b89-d0e5-4870-a3da-e071c4bd6839.png)
 
 
 ## StartCj7 -h, --help :
@@ -30,7 +29,6 @@
 ![Screenshot_20210906-014626_Termux](https://user-images.githubusercontent.com/81049859/132167284-00faae5c-391d-46ef-8ef3-4374cfec32b1.png)
 
 ## Dark_Phish :
-![Cj7_darkPhish](https://user-images.githubusercontent.com/81049859/132144458-008dadc5-255c-44f8-8208-8d6d045c95bf.png)
 
 ## Email_Spoofing :
 ![Screenshot_20210909-230318_Termux](https://user-images.githubusercontent.com/81049859/132792985-ffbe7f3b-39c2-4a54-80c4-ed3a159a9a64.png)

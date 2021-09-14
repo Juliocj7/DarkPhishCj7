@@ -56,12 +56,6 @@
 ## Phish_GMAIL :
 ![Screenshot_20210906-125125_Termux](https://user-images.githubusercontent.com/81049859/132247842-4ebb7838-96d1-4338-9204-00d2f0d48254.png)
 
-## IP_Logger_Cj7 1 :
-![Cj7_iplogger](https://user-images.githubusercontent.com/81049859/132144430-1e430b44-2416-46ed-a8ed-a71e10df0362.png)
-
-## IP_Logger_Cj7 2 :
-![Screenshot_20210911-010828_Termux](https://user-images.githubusercontent.com/81049859/132937253-707b787a-f945-476b-9368-9cb5f4d610d6.png)
-
 ## DarkPhishCj7 :
 * Increíble herramienta **Phishing** con múltiples plantillas actualizadas.
 * Más de **10 herramientas** avanzadas en el arte del phishing.

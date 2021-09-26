@@ -14,7 +14,6 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20210914-165512_Termux](https://user-images.githubusercontent.com/81049859/133332737-056b4843-21e6-4acb-839c-e4f79b2cf91d.png)
 
 ## Server :
 ![Screenshot_20210909-223228_Termux](https://user-images.githubusercontent.com/81049859/132790295-7afb80a2-2711-4aa6-ba6b-b304df52545d.png)

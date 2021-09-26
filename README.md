@@ -14,6 +14,7 @@
 </details>
 
 ## Menú Principal :
+![Screenshot_20210926-145726_Termux](https://user-images.githubusercontent.com/81049859/134820855-66647ddb-dd4c-4750-84b4-5a3e260ccfa7.png)
 
 ## Server :
 ![Screenshot_20210909-223228_Termux](https://user-images.githubusercontent.com/81049859/132790295-7afb80a2-2711-4aa6-ba6b-b304df52545d.png)
@@ -22,7 +23,8 @@
 ![Screenshot_20210912-105556_Termux](https://user-images.githubusercontent.com/81049859/132992574-ab7f89c3-d21d-4843-9e79-e119d07a597e.png)
 
 ## StartCj7 -h, --help :
-![Screenshot_20210914-165548_Termux](https://user-images.githubusercontent.com/81049859/133332776-e8572026-c6c2-4c5b-87e9-d80edf8b6528.png)
+![Screenshot_20210926-145324_Termux](https://user-images.githubusercontent.com/81049859/134820931-6d5c8f6d-270c-4f1a-a982-7c30f5f87de6.png)
+
 
 ## StartCj7 -ip :
 ![Screenshot_20210906-014229_Termux](https://user-images.githubusercontent.com/81049859/132167262-367018ba-0ce3-46c3-9443-f96ba6ede082.png)

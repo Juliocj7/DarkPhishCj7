@@ -26,7 +26,6 @@
 ![Screenshot_20210926-145324_Termux](https://user-images.githubusercontent.com/81049859/134820931-6d5c8f6d-270c-4f1a-a982-7c30f5f87de6.png)
 
 ## Server :
-![Screenshot_20210909-223228_Termux](https://user-images.githubusercontent.com/81049859/132790295-7afb80a2-2711-4aa6-ba6b-b304df52545d.png)
 
 ## Personalización :
 ![Screenshot_20210912-105556_Termux](https://user-images.githubusercontent.com/81049859/132992574-ab7f89c3-d21d-4843-9e79-e119d07a597e.png)

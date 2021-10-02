@@ -7,7 +7,7 @@
 <summary> Qué es DarkPhishCj7 ? </summary>
 <br>
 
- - DarkPhishCj7 es mi herramienta privada de phishing 100% funcional.
+ - DarkPhishCj7 es mi herramienta privada de phishing que hace uso de plantillas HTML5... 100% funcional !!!.
  - Inicio de creación >> 10 de agosto del 2021.
  - Fin de la creación >> 5 de septiembre del 2021.
 

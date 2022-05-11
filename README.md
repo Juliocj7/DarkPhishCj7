@@ -27,10 +27,10 @@
 ## StartCj7 :
 ![Screenshot_20210926-145726_Termux](https://user-images.githubusercontent.com/81049859/134820855-66647ddb-dd4c-4750-84b4-5a3e260ccfa7.png)
 
-## StartCj7 -ip :
+## StartCj7 --ip :
 ![Screenshot_20210906-014229_Termux](https://user-images.githubusercontent.com/81049859/132167262-367018ba-0ce3-46c3-9443-f96ba6ede082.png)
 
-## StartCj7 -phone :
+## StartCj7 --phone :
 ![Screenshot_20210906-014626_Termux](https://user-images.githubusercontent.com/81049859/132167284-00faae5c-391d-46ef-8ef3-4374cfec32b1.png)
 
 ## StartCj7 -h, --help :

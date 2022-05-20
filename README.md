@@ -27,12 +27,6 @@
 ## StartCj7 :
 ![Screenshot_20210926-145726_Termux](https://user-images.githubusercontent.com/81049859/134820855-66647ddb-dd4c-4750-84b4-5a3e260ccfa7.png)
 
-## StartCj7 --ip :
-![Screenshot_20210906-014229_Termux](https://user-images.githubusercontent.com/81049859/132167262-367018ba-0ce3-46c3-9443-f96ba6ede082.png)
-
-## StartCj7 --phone :
-![Screenshot_20210906-014626_Termux](https://user-images.githubusercontent.com/81049859/132167284-00faae5c-391d-46ef-8ef3-4374cfec32b1.png)
-
 ## StartCj7 -h, --help :
 ![Screenshot_20210926-145324_Termux](https://user-images.githubusercontent.com/81049859/134820931-6d5c8f6d-270c-4f1a-a982-7c30f5f87de6.png)
 
@@ -68,6 +62,11 @@
 
 ## Phish_GMAIL :
 ![Screenshot_20210906-125125_Termux](https://user-images.githubusercontent.com/81049859/132247842-4ebb7838-96d1-4338-9204-00d2f0d48254.png)
+
+## Extras :
+* 2 herramientas secretas:
+* `StartCj7 --phone`: Obtiene información de un número telefónico.
+* `StartCj7 --ip`: Obtiene información completa de una dirección del Protocolo de Internet (IP).
 
 ## Servidores :
 * 5 servidores outLAN a elección:

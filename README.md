@@ -39,30 +39,15 @@
 ## Dark_Phish :
 ![Screenshot_20220520-154459_Termux](https://user-images.githubusercontent.com/81049859/169600701-2d7aa50a-2d63-426c-82a0-ffaed0df976e.png)
 
-
-## Email_Spoofing :
-![Screenshot_20210928-173420_Termux](https://user-images.githubusercontent.com/81049859/135169548-daf8c125-8c4f-450b-a529-5859dd5ec801.png)
-
-## Phish_VID :
-![Screenshot_20210926-142004_Termux](https://user-images.githubusercontent.com/81049859/134819665-e88315b1-391c-47f0-9ab6-6836042cb022.png)
-
-## Phish_GPS :
-![Cj7_gpsweb](https://user-images.githubusercontent.com/81049859/132144325-4aece1d6-bcea-434b-b70d-f330ef4816fb.png)
-
-## Phish_CAM :
-![Screenshot_20210911-011556_Termux](https://user-images.githubusercontent.com/81049859/132937249-5fe39fe1-56d9-4fd4-b0ef-f0d296ccdde6.png)
-
-## Phish_MIC :
-![Cj7_micweb](https://user-images.githubusercontent.com/81049859/132144394-1de1c7af-7f33-4a00-991d-c4d34d91373f.png)
-
-## Phish_LOCK :
-![Cj7_lockweb](https://user-images.githubusercontent.com/81049859/132144401-afd50657-7594-44c7-ada4-9ca23102280f.png)
-
-## Phish_NCAT :
-![Screenshot_20210909-140304_Termux](https://user-images.githubusercontent.com/81049859/132740058-01dc47ff-a856-40d9-804d-234a4cb36ef1.png)
-
-## Phish_GMAIL :
-![Screenshot_20210906-125125_Termux](https://user-images.githubusercontent.com/81049859/132247842-4ebb7838-96d1-4338-9204-00d2f0d48254.png)
+|Email_Spoof|       Phish_VID |
+| ------------  | ------------ |
+|![Screenshot_20210928-173420_Termux](https://user-images.githubusercontent.com/81049859/135169548-daf8c125-8c4f-450b-a529-5859dd5ec801.png)|![Screenshot_20210926-142004_Termux](https://user-images.githubusercontent.com/81049859/134819665-e88315b1-391c-47f0-9ab6-6836042cb022.png)|
+|Phish_GPS |Phish_CAM|
+|![Cj7_gpsweb](https://user-images.githubusercontent.com/81049859/132144325-4aece1d6-bcea-434b-b70d-f330ef4816fb.png)|![Screenshot_20210911-011556_Termux](https://user-images.githubusercontent.com/81049859/132937249-5fe39fe1-56d9-4fd4-b0ef-f0d296ccdde6.png)|
+|Phish_MIC |Phish_LOCK|
+|![Cj7_micweb](https://user-images.githubusercontent.com/81049859/132144394-1de1c7af-7f33-4a00-991d-c4d34d91373f.png)|![Cj7_lockweb](https://user-images.githubusercontent.com/81049859/132144401-afd50657-7594-44c7-ada4-9ca23102280f.png)|
+|Phish_NCAT |Phish_GMAIL|
+|![Screenshot_20210909-140304_Termux](https://user-images.githubusercontent.com/81049859/132740058-01dc47ff-a856-40d9-804d-234a4cb36ef1.png)|![Screenshot_20210906-125125_Termux](https://user-images.githubusercontent.com/81049859/132247842-4ebb7838-96d1-4338-9204-00d2f0d48254.png)|
 
 ## Servidores :
 * 5 servidores outLAN a elección:

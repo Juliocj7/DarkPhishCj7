@@ -63,11 +63,6 @@
 ## Phish_GMAIL :
 ![Screenshot_20210906-125125_Termux](https://user-images.githubusercontent.com/81049859/132247842-4ebb7838-96d1-4338-9204-00d2f0d48254.png)
 
-## Extras :
-* 2 herramientas secretas:
-* `StartCj7 --phone`: Obtiene información de un número telefónico.
-* `StartCj7 --ip`: Obtiene información completa de una dirección del Protocolo de Internet (IP).
-
 ## Servidores :
 * 5 servidores outLAN a elección:
 * `Ngrok.io`
@@ -87,8 +82,8 @@
 ## Sintaxis :
 - [x] *bash StartCj7 : Iniciar the best tool, DarkPhishCj7.*
 - [x] *bash StartCj7 -h, --help : Iniciar menú de ayuda.*
-- [x] *bash StartCj7 -ip : Obtén información de una IP.*
-- [x] *bash StartCj7 -phone : Obtén información de un número telefónico.*
+- [x] *bash StartCj7 --ip : Obtiene información completa de una dirección del Protocolo de Internet (IP).*
+- [x] *bash StartCj7 --phone : Obtiene información de un número telefónico.*
 
 ## Instalación :
 

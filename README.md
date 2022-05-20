@@ -25,16 +25,16 @@
 </details>
 
 ## StartCj7 :
-![Screenshot_20210926-145726_Termux](https://user-images.githubusercontent.com/81049859/134820855-66647ddb-dd4c-4750-84b4-5a3e260ccfa7.png)
+![Screenshot_20220520-143331_Termux](https://user-images.githubusercontent.com/81049859/169598131-6dfc8516-f63c-426f-bf2c-e9b4868b58a7.png)
 
-## StartCj7 -h, --help :
-![Screenshot_20210926-145324_Termux](https://user-images.githubusercontent.com/81049859/134820931-6d5c8f6d-270c-4f1a-a982-7c30f5f87de6.png)
 
 ## Servidores :
-![Screenshot_20210928-134544_Termux](https://user-images.githubusercontent.com/81049859/135138912-4b4f4287-c9cc-466c-850c-5835552756e3.png)
+![Screenshot_20220520-150522_Termux](https://user-images.githubusercontent.com/81049859/169598181-4680c137-83ee-4125-ac6b-a7bd9dccf433.png)
+
 
 ## Personalización :
-![Screenshot_20210912-105556_Termux](https://user-images.githubusercontent.com/81049859/132992574-ab7f89c3-d21d-4843-9e79-e119d07a597e.png)
+![Screenshot_20220520-152416_Termux](https://user-images.githubusercontent.com/81049859/169598275-41525fa3-0639-422c-9888-dfa58b931333.png)
+
 
 ## Dark_Phish :
 ![Screenshot_20210928-134309_Termux](https://user-images.githubusercontent.com/81049859/135139636-d327125a-2a22-4778-9b6c-b94d757baafb.png)

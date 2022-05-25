@@ -50,7 +50,7 @@
 |![Screenshot_20210909-140304_Termux](https://user-images.githubusercontent.com/81049859/132740058-01dc47ff-a856-40d9-804d-234a4cb36ef1.png)|![Screenshot_20210906-125125_Termux](https://user-images.githubusercontent.com/81049859/132247842-4ebb7838-96d1-4338-9204-00d2f0d48254.png)|
 
 ## Servidores :
-* 5 servidores outLAN a elección:
+* 6 **servidores** a elección (inLAN u outLAN):
 * `Ngrok.io`
 * `Localhost.run`
 * `Localtunnel.me`

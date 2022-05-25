@@ -25,7 +25,8 @@
 </details>
 
 ## StartCj7 :
-![Screenshot_20220520-143331_Termux](https://user-images.githubusercontent.com/81049859/169598131-6dfc8516-f63c-426f-bf2c-e9b4868b58a7.png)
+![Screenshot_20220525-182405_Termux](https://user-images.githubusercontent.com/81049859/170380722-4d50886f-d4d8-417c-a00d-35b3edbaac04.png)
+
 
 
 ## Servidores :

@@ -25,7 +25,7 @@
 </details>
 
 ## StartCj7 :
-![Screenshot_20220525-182405_Termux](https://user-images.githubusercontent.com/81049859/170380722-4d50886f-d4d8-417c-a00d-35b3edbaac04.png)
+![Screenshot_20220530-125812_Termux](https://user-images.githubusercontent.com/81049859/171035363-eeb6d60d-25ab-46fc-aa58-79f7ed9e649a.png)
 
 
 

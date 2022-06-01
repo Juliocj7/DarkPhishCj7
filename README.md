@@ -27,15 +27,11 @@
 ## StartCj7 :
 ![Screenshot_20220530-125812_Termux](https://user-images.githubusercontent.com/81049859/171035363-eeb6d60d-25ab-46fc-aa58-79f7ed9e649a.png)
 
-
-
 ## Servidores :
 ![Screenshot_20220520-150522_Termux](https://user-images.githubusercontent.com/81049859/169598181-4680c137-83ee-4125-ac6b-a7bd9dccf433.png)
 
-
 ## Personalización :
 ![Screenshot_20220520-152416_Termux](https://user-images.githubusercontent.com/81049859/169598275-41525fa3-0639-422c-9888-dfa58b931333.png)
-
 
 ## Dark_Phish :
 ![Screenshot_20220520-154459_Termux](https://user-images.githubusercontent.com/81049859/169600701-2d7aa50a-2d63-426c-82a0-ffaed0df976e.png)
@@ -60,7 +56,7 @@
 
 ## DarkPhishCj7 :
 * Increíble herramienta **Phishing** en base a múltiples plantillas HTML5 actualizadas.
-* Más de **12 herramientas** avanzadas en el arte del phishing.
+* Más de **14 herramientas** avanzadas en el arte del phishing.
 * Personaliza **al máximo** enlaces para una mejor ingeniería social.
 * Obtén las **credenciales** como respaldo en tu correo electrónico.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:

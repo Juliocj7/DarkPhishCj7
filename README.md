@@ -7,6 +7,9 @@
 𝚂𝙴 𝙾𝚁𝙸𝙶𝙸𝙽𝙰𝙻 𝚈 𝙳𝙴𝙹𝙰 𝙳𝙴 𝚁𝙾𝙱𝙰𝚁 𝚂𝙲𝚁𝙸𝙿𝚃𝚂 𝚈 𝙴𝚂𝚃𝙸𝙻𝙾𝚂 𝙰 𝙾𝚃𝚁𝙾𝚂 !!!
 
 ♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧
+
+Esta herramienta está desarrollada con fines educativos. Aquí demuestra cómo funciona el phishing. Si alguien quiere obtener acceso no autorizado a las credenciales o a alguna característica del dispositivo de alguien, puede intentarlo bajo su propio riesgo. Usted tiene sus propias responsabilidades y es responsable de cualquier daño o violación de las leyes por parte de esta herramienta. ¡El autor no es responsable del mal uso de DarkPhishCj7!
+
 --> 
 
 <h1 align="center"><a href="https://github.com/Juliocj7"><img title="Author" src="https://img.shields.io/badge/Author-𖤐 𝙹𝚞𝚕𝚒𝚘 𝙲𝚓7 𖤐-svg?style=flat&color=000000&logo=github"></a></h1>

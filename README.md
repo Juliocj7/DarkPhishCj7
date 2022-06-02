@@ -8,7 +8,7 @@
 
 ♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧
 
-Esta herramienta está desarrollada con fines educativos. Aquí demuestra cómo funciona el phishing. Si alguien quiere obtener acceso no autorizado a las credenciales o a alguna característica del dispositivo de alguien, puede intentarlo bajo su propio riesgo. Usted tiene sus propias responsabilidades y es responsable de cualquier daño o violación de las leyes por parte de esta herramienta. ¡El autor no es responsable del mal uso de DarkPhishCj7!
+Esta herramienta está desarrollada con fines educativos. Aquí se demuestra cómo funciona el phishing. Si alguien quiere obtener acceso no autorizado a las credenciales o a alguna característica del dispositivo de alguien, puede intentarlo bajo su propio riesgo. Usted tiene sus propias responsabilidades y es responsable de cualquier daño o violación de las leyes por parte de esta herramienta. ¡El autor no es responsable del mal uso de DarkPhishCj7!
 
 --> 
 

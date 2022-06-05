@@ -83,8 +83,9 @@ Esta herramienta está desarrollada con fines educativos. Aquí se demuestra có
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* `apt update && apt upgrade -y`
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * `git clone https://github.com/Juliocj7/DarkPhishCj7`
 
 * `cd DarkPhishCj7`

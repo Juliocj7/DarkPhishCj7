@@ -75,7 +75,7 @@ Esta herramienta está desarrollada con fines educativos. Aquí se demuestra có
 * Increíble herramienta **Phishing** en base a múltiples plantillas HTML5 actualizadas.
 * Más de **14 herramientas** avanzadas en el arte del phishing.
 * Personaliza **al máximo** enlaces para una mejor ingeniería social.
-* Obtén las **credenciales** como respaldo en tu correo electrónico.
+* Obtén las **credenciales** como respaldo en tu correo electrónico o como mensaje en tu WhatsApp, Telegram o Discord.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 

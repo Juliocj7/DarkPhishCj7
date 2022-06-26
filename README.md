@@ -27,7 +27,7 @@ Esta herramienta está desarrollada con fines educativos. Aquí se demuestra có
 
 </details>
 
-## StartCj7 :
+## DarkPhishCj7 :
 ![Screenshot_20220530-125812_Termux](https://user-images.githubusercontent.com/81049859/171035363-eeb6d60d-25ab-46fc-aa58-79f7ed9e649a.png)
 
 ## Servidores :
@@ -36,7 +36,7 @@ Esta herramienta está desarrollada con fines educativos. Aquí se demuestra có
 ## Personalización :
 ![Screenshot_20220520-152416_Termux](https://user-images.githubusercontent.com/81049859/169598275-41525fa3-0639-422c-9888-dfa58b931333.png)
 
-## Dark_Phish :
+## DarkPhish :
 ![Screenshot_20220520-154459_Termux](https://user-images.githubusercontent.com/81049859/169600701-2d7aa50a-2d63-426c-82a0-ffaed0df976e.png)
 
 |PicPhish|UbiPhish|

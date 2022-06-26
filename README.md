@@ -80,10 +80,10 @@ Esta herramienta está desarrollada con fines educativos. Aquí se demuestra có
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Sintaxis :
-- [x] *bash StartCj7 : Iniciar the best tool, DarkPhishCj7.*
-- [x] *bash StartCj7 -h, --help : Iniciar menú de ayuda.*
-- [x] *bash StartCj7 --ip : Obtiene información completa de una dirección del Protocolo de Internet (IP).*
-- [x] *bash StartCj7 --phone : Obtiene información de un número telefónico.*
+- [x] *DarkPhishCj7 : Iniciar the best tool, DarkPhishCj7.*
+- [x] *DarkPhishCj7 -h, --help : Iniciar menú de ayuda.*
+- [x] *DarkPhishCj7 --ip : Obtiene información completa de una dirección del Protocolo de Internet (IP).*
+- [x] *DarkPhishCj7 --phone : Obtiene información de un número telefónico.*
 
 ## Instalación :
 
@@ -102,7 +102,7 @@ https://github.com/Juliocj7/UtilsCj7
 
 * `chmod +x *`
 
-* `bash StartCj7`
+* `./DarkPhishCj7`
 
 ---
 ###### `Pd: Porfavor informar cualquier error`

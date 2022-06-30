@@ -16,15 +16,17 @@ Esta herramienta está desarrollada con fines educativos. Aquí se demuestra có
  
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
-
-<details>
-<summary> Qué es DarkPhishCj7 ? </summary>
-<br>
-
- - DarkPhishCj7 es mi herramienta privada de phishing que hace uso de plantillas HTML5... 100% funcional !!!.
- - Inicio de creación >> 10 de agosto del 2021.
- - Fin de la creación >> 5 de septiembre del 2021.
-
+<details align="center">
+<summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
+<img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif"/>
+<br><br>
+<p align="left"><strong><samp>「</samp><strong></p>
+<p>Qué es DarkPhishCj7 ?<p>
+<samp>DarkPhishCj7 es mi herramienta privada de phishing que hace uso de plantillas HTML5.<br>
+Inicio de creación: 10/08/2021<br>
+Fin de la creación: 5/09/2021
+<br><br>
+<p align="right"><strong><samp>」</samp></strong></p>
 </details>
 
 ## DarkPhishCj7 :

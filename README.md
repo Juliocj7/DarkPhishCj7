@@ -24,7 +24,7 @@ Esta herramienta está desarrollada con fines educativos. Aquí se demuestra có
 <p>Qué es DarkPhishCj7 ?</p>
 <samp>DarkPhishCj7 es mi herramienta privada de phishing que hace uso de plantillas HTML5.<br>
 Inicio de creación: 10/08/2021<br>
-Fin de la creación: 5/09/2021
+Fin de la creación: 05/09/2021
 <br><br>
 <p align="right"><strong><samp>」</samp></strong></p>
 </details>

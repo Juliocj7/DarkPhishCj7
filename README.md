@@ -12,6 +12,11 @@ Esta herramienta está desarrollada con fines educativos. Aquí se demuestra có
 
 --> 
 
+<!--
+Descargo de responsabilidad legal: solo con fines educativos
+El uso de DarkPhishCj7 para atacar objetivos sin previo consentimiento mutuo es ilegal. Es responsabilidad del usuario final obedecer todas las leyes locales, estatales y federales aplicables. Los desarrolladores no asumen ninguna responsabilidad y no son responsables de ningún mal uso o daño causado por este programa. ¡Usa responsablemente!
+-->
+
 <h1 align="center"><a href="https://github.com/Juliocj7"><img title="Author" src="https://img.shields.io/badge/Author-𖤐 𝙹𝚞𝚕𝚒𝚘 𝙲𝚓7 𖤐-svg?style=flat&color=000000&logo=github"></a></h1>
  
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>

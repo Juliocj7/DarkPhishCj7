@@ -35,7 +35,7 @@ Fin de la creación: 05/09/2021
 </details>
 
 ## DarkPhishCj7 :
-![Screenshot_20220530-125812_Termux](https://user-images.githubusercontent.com/81049859/171035363-eeb6d60d-25ab-46fc-aa58-79f7ed9e649a.png)
+![Screenshot_20221229-101520_Termux](https://user-images.githubusercontent.com/81049859/209965879-a64fd145-1b0f-4c03-af31-e77be2b159fe.png)
 
 ## Servidores :
 ![Screenshot_20220520-150522_Termux](https://user-images.githubusercontent.com/81049859/169598181-4680c137-83ee-4125-ac6b-a7bd9dccf433.png)

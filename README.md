@@ -35,13 +35,14 @@ Fin de la creación: 05/09/2021
 </details>
 
 ## DarkPhishCj7 :
-![Screenshot_20221229-101520_Termux](https://user-images.githubusercontent.com/81049859/209965879-a64fd145-1b0f-4c03-af31-e77be2b159fe.png)
+![1000329001](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/c2593ee1-e11a-43c3-bf3c-3e9306db3eb0)
 
-## Servidores :
-![Screenshot_20220520-150522_Termux](https://user-images.githubusercontent.com/81049859/169598181-4680c137-83ee-4125-ac6b-a7bd9dccf433.png)
+|Website|Servers|
+|-------|-------|
+|![1000329002](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/6479c174-e5dc-45df-b6f9-ecf88f274039)|![1000329003](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/cd77642c-35a1-49d6-b0d2-049a3cacf3f3)|
 
 ## Personalización :
-![Screenshot_20220520-152416_Termux](https://user-images.githubusercontent.com/81049859/169598275-41525fa3-0639-422c-9888-dfa58b931333.png)
+![1000329008](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/7eba03f9-7681-45b0-b772-97ac7dc5078f)
 
 ## DarkPhish :
 ![Screenshot_20220520-154459_Termux](https://user-images.githubusercontent.com/81049859/169600701-2d7aa50a-2d63-426c-82a0-ffaed0df976e.png)
@@ -73,7 +74,7 @@ Fin de la creación: 05/09/2021
 ## Servidores :
 * inLAN && outLAN
 > [!NOTE]
-> 7 **servidores** disponibles: `Localhost` `Ngrok.io` `Localhost.run` `Localtunnel.me` `Localxpose.io` `Cloudflared`
+> 6 **servidores** disponibles: `Localhost` `Ngrok.io` `Localhost.run` `Localtunnel.me` `Localxpose.io` `Cloudflared`
 
 ## DarkPhishCj7 :
 * Increíble herramienta **Phishing** en base a múltiples plantillas HTML5 actualizadas.

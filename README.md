@@ -41,7 +41,7 @@ Fin de la creación: 05/09/2021
 |-------|-------|
 |![1000329002](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/6479c174-e5dc-45df-b6f9-ecf88f274039)|![1000329003](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/cd77642c-35a1-49d6-b0d2-049a3cacf3f3)|
 
-## Personalización :
+## URL Masking :
 ![1000329008](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/7eba03f9-7681-45b0-b772-97ac7dc5078f)
 
 ## DarkPhish :

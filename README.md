@@ -37,12 +37,10 @@ Fin de la creación: 05/09/2021
 ## DarkPhishCj7 :
 ![1000329001](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/c2593ee1-e11a-43c3-bf3c-3e9306db3eb0)
 
-|Website|Servers|
-|-------|-------|
-|![1000329002](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/6479c174-e5dc-45df-b6f9-ecf88f274039)|![1000329003](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/cd77642c-35a1-49d6-b0d2-049a3cacf3f3)|
+|Website|Servers|Masking|
+|-------|-------|-------|
+|![1000329002](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/6479c174-e5dc-45df-b6f9-ecf88f274039)|![1000329003](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/cd77642c-35a1-49d6-b0d2-049a3cacf3f3)|![1000329211](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/76224a26-b1e4-4be7-a6a6-7c51852cf57b)|
 
-## URL Masking :
-![1000329008](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/7eba03f9-7681-45b0-b772-97ac7dc5078f)
 
 ## DarkPhish :
 ![Screenshot_20220520-154459_Termux](https://user-images.githubusercontent.com/81049859/169600701-2d7aa50a-2d63-426c-82a0-ffaed0df976e.png)

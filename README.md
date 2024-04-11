@@ -71,12 +71,9 @@ Fin de la creación: 05/09/2021
 ![35_lockweb](https://user-images.githubusercontent.com/81049859/171518093-a43dbfe9-56cd-45ef-a796-5fe04978b71e.png)|![35_rndweb](https://user-images.githubusercontent.com/81049859/171518073-bd1fd3c2-8602-4191-ac6e-ef213f9f5c53.png)|
 
 ## Servidores :
-* 6 **servidores** a elección (inLAN u outLAN):
-* `Ngrok.io`
-* `Localhost.run`
-* `Localtunnel.me`
-* `Localxpose.io`
-* `Cloudflared`
+* inLAN && outLAN
+> [!NOTE]
+> 7 **servidores** disponibles: `Localhost` `Ngrok.io` `Localhost.run` `Localtunnel.me` `Localxpose.io` `Cloudflared`
 
 ## DarkPhishCj7 :
 * Increíble herramienta **Phishing** en base a múltiples plantillas HTML5 actualizadas.

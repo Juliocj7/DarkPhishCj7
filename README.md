@@ -29,7 +29,7 @@
   <details>
     <summary>  𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7</summary>
     <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif" />
-    <br>
+    <br><br>
     <p align="left"><strong><samp>「</samp><strong></p>
     <samp>
       Puedes mirar pero no

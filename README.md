@@ -26,12 +26,13 @@ ______________________________________________________
 
 <div align="center">
   <details>
-    <summary>  𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7</summary>
+    <!--<summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>-->
+    <summary>  𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7 </summary>
     <a href="#--------">
       <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif" />
     </a>
     <br><br>
-    <p align="left"><strong><samp>「</samp><strong></p>
+    <p align="left"><strong><samp>「</samp></strong></p>
     <samp>
       Puedes mirar pero no
       copiar<br>inmundo animal xD

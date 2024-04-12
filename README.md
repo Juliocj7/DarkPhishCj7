@@ -70,10 +70,18 @@
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Sintaxis :
-- [x] *DarkPhishCj7 : Iniciar the best tool, DarkPhishCj7.*
-- [x] *DarkPhishCj7 -h, --help : Iniciar menú de ayuda.*
-- [x] *DarkPhishCj7 --ip : Obtiene información completa de una dirección del Protocolo de Internet (IP).*
-- [x] *DarkPhishCj7 --phone : Obtiene información de un número telefónico.*
+* Ayuda:
+~~~
+DarkPhishCj7 -h, --help
+~~~
+* Información de una IP:
+~~~
+DarkPhishCj7 --ip
+~~~
+* Información de un # telefónico:
+~~~
+DarkPhishCj7 --phone
+~~~
 
 ## Instalación :
 > [!NOTE]  

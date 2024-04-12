@@ -9,9 +9,17 @@
 ♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧
 -->
 
-<h1 align="center"><a href="https://github.com/Juliocj7"><img title="Author" src="https://img.shields.io/badge/Author-𖤐 𝙹𝚞𝚕𝚒𝚘 𝙲𝚓7 𖤐-svg?style=flat&color=000000&logo=github"></a></h1>
- 
-<p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
+<div align="center">
+  <a href="https://github.com/Juliocj7">
+    <img title="Author" src="https://img.shields.io/badge/Author-𖤐 𝙹𝚞𝚕𝚒𝚘 𝙲𝚓7 𖤐-svg?style=flat&color=000000&logo=github">
+  </a>
+</div>
+
+<div align="center">
+  <a href="#--------">
+    <img title="Mi Banner" src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/>
+  </a>
+</div>
 
 <details align="center">
 <summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
@@ -24,6 +32,19 @@
 
 ## DarkPhishCj7 :
 ![1000329001](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/c2593ee1-e11a-43c3-bf3c-3e9306db3eb0)
+
+<div align="justify">
+  <details align="center">
+    <summary> 𝙳𝚒𝚜𝚌𝚕𝚊𝚒𝚖𝚎𝚛 </summary>
+    <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif" />
+    <br>
+    <samp>
+Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con fines educativos. Aquí se demuestra cómo funciona el phishing. Si alguien quiere obtener acceso no autorizado a las credenciales o a alguna característica del dispositivo de alguien, puede intentarlo bajo su propio riesgo. Usted tiene sus propias responsabilidades y es responsable de cualquier daño o violación de las leyes por parte de esta herramienta. ¡El autor no es responsable del mal uso de DarkPhishCj7!
+    </samp>
+    <br>
+    <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif" />
+  </details>
+</div>
 
 |Website|Servers|Masking|
 |-------|-------|-------|

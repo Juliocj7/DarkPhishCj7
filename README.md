@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="#--------">
-    <img title="Mi Banner" src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="280" height="95" />
+    <img title="Mi Banner" src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="105" />
   </a>
 </div>
 

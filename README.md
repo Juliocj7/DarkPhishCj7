@@ -7,14 +7,6 @@
 𝚂𝙴 𝙾𝚁𝙸𝙶𝙸𝙽𝙰𝙻 𝚈 𝙳𝙴𝙹𝙰 𝙳𝙴 𝚁𝙾𝙱𝙰𝚁 𝚂𝙲𝚁𝙸𝙿𝚃𝚂 𝚈 𝙴𝚂𝚃𝙸𝙻𝙾𝚂 𝙰 𝙾𝚃𝚁𝙾𝚂 !!!
 
 ♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧
-
-Esta herramienta está desarrollada con fines educativos. Aquí se demuestra cómo funciona el phishing. Si alguien quiere obtener acceso no autorizado a las credenciales o a alguna característica del dispositivo de alguien, puede intentarlo bajo su propio riesgo. Usted tiene sus propias responsabilidades y es responsable de cualquier daño o violación de las leyes por parte de esta herramienta. ¡El autor no es responsable del mal uso de DarkPhishCj7!
-
---> 
-
-<!--
-Descargo de responsabilidad legal: solo con fines educativos
-El uso de DarkPhishCj7 para atacar objetivos sin previo consentimiento mutuo es ilegal. Es responsabilidad del usuario final obedecer todas las leyes locales, estatales y federales aplicables. Los desarrolladores no asumen ninguna responsabilidad y no son responsables de ningún mal uso o daño causado por este programa. ¡Usa responsablemente!
 -->
 
 <h1 align="center"><a href="https://github.com/Juliocj7"><img title="Author" src="https://img.shields.io/badge/Author-𖤐 𝙹𝚞𝚕𝚒𝚘 𝙲𝚓7 𖤐-svg?style=flat&color=000000&logo=github"></a></h1>
@@ -26,11 +18,7 @@ El uso de DarkPhishCj7 para atacar objetivos sin previo consentimiento mutuo es 
 <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif"/>
 <br><br>
 <p align="left"><strong><samp>「</samp><strong></p>
-<p>Qué es DarkPhishCj7 ?</p>
-<samp>DarkPhishCj7 es mi herramienta privada de phishing que hace uso de plantillas HTML5.<br>
-Inicio de creación: 10/08/2021<br>
-Fin de la creación: 05/09/2021
-<br><br>
+<samp>Puedes mirar pero no copiar<br>inmundo animal xD<br><br>
 <p align="right"><strong><samp>」</samp></strong></p>
 </details>
 
@@ -40,7 +28,6 @@ Fin de la creación: 05/09/2021
 |Website|Servers|Masking|
 |-------|-------|-------|
 |![1000329002](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/6479c174-e5dc-45df-b6f9-ecf88f274039)|![1000329003](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/cd77642c-35a1-49d6-b0d2-049a3cacf3f3)|![1000329211](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/76224a26-b1e4-4be7-a6a6-7c51852cf57b)|
-
 
 ## DarkPhish :
 ![Screenshot_20220520-154459_Termux](https://user-images.githubusercontent.com/81049859/169600701-2d7aa50a-2d63-426c-82a0-ffaed0df976e.png)
@@ -71,7 +58,7 @@ Fin de la creación: 05/09/2021
 
 ## Servidores :
 * inLAN && outLAN
-> [!NOTE]
+> [!TIP]
 > 6 **servidores** disponibles: `Localhost` `Ngrok.io` `Localhost.run` `Localtunnel.me` `Localxpose.io` `Cloudflared`
 
 ## DarkPhishCj7 :
@@ -89,16 +76,13 @@ Fin de la creación: 05/09/2021
 - [x] *DarkPhishCj7 --phone : Obtiene información de un número telefónico.*
 
 ## Instalación :
-
-* Para un correcto funcionamiento de la herramienta porfavor instale los [recursos básicos](https://github.com/Juliocj7/UtilsCj7) para termux :
-
-~~~
-https://github.com/Juliocj7/UtilsCj7
-~~~
+> [!NOTE]  
+> Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
 ```bash
-  yes|pkg update && pkg upgrade
+  yes|apt update && apt upgrade
 ```
+
 * `git clone https://github.com/Juliocj7/DarkPhishCj7`
 
 * `cd DarkPhishCj7`

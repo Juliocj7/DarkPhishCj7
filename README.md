@@ -15,20 +15,30 @@
   </a>
 </div>
 
+<br>
+
 <div align="center">
   <a href="#--------">
-    <img title="Mi Banner" src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/>
+    <img title="Mi Banner" src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="280" height="95" />
   </a>
 </div>
 
-<details align="center">
-<summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
-<img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif"/>
-<br><br>
-<p align="left"><strong><samp>「</samp><strong></p>
-<samp>Puedes mirar pero no copiar<br>inmundo animal xD<br><br>
-<p align="right"><strong><samp>」</samp></strong></p>
-</details>
+<br>
+
+<div align="center">
+  <details>
+    <summary>  𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7</summary>
+    <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif" />
+    <br>
+    <p align="left"><strong><samp>「</samp><strong></p>
+    <samp>
+      Puedes mirar pero no
+      copiar<br>inmundo animal xD
+    </samp>
+    <br>
+    <p align="right"><strong><samp>」</samp></strong></p>
+  </details>
+</div>
 
 ## DarkPhishCj7 :
 ![1000329001](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/c2593ee1-e11a-43c3-bf3c-3e9306db3eb0)

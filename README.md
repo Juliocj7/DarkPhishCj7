@@ -42,7 +42,7 @@ ______________________________________________________
   </details>
 </div>
 
-## DarkPhishCj7 :
+## Menú Principal :
 ![1000329001](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/c2593ee1-e11a-43c3-bf3c-3e9306db3eb0)
 
 <div align="justify">
@@ -62,7 +62,6 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
 |-------|-------|-------|
 |![1000329002](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/6479c174-e5dc-45df-b6f9-ecf88f274039)|![1000329003](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/cd77642c-35a1-49d6-b0d2-049a3cacf3f3)|![1000329211](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/76224a26-b1e4-4be7-a6a6-7c51852cf57b)|
 
-## DarkPhish :
 ![Screenshot_20220520-154459_Termux](https://user-images.githubusercontent.com/81049859/169600701-2d7aa50a-2d63-426c-82a0-ffaed0df976e.png)
 
 |PicPhish|UbiPhish|
@@ -89,10 +88,8 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
 | ------------  | ------------ |
 ![35_lockweb](https://user-images.githubusercontent.com/81049859/171518093-a43dbfe9-56cd-45ef-a796-5fe04978b71e.png)|![35_rndweb](https://user-images.githubusercontent.com/81049859/171518073-bd1fd3c2-8602-4191-ac6e-ef213f9f5c53.png)|
 
-## Servidores :
-* inLAN && outLAN
-> [!TIP]
-> 6 **servidores** disponibles: `Localhost` `Ngrok.io` `Localhost.run` `Localtunnel.me` `Localxpose.io` `Cloudflared`
+> Servidores: inLAN y outLAN
+> > `Localhost` `Ngrok.io` `Localhost.run` `Localtunnel.me` `Localxpose.io` `Cloudflared`
 
 ## DarkPhishCj7 :
 * Increíble herramienta **phishing** en base a múltiples plantillas HTML5 actualizadas.

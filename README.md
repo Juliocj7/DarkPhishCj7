@@ -95,42 +95,43 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
 > 6 **servidores** disponibles: `Localhost` `Ngrok.io` `Localhost.run` `Localtunnel.me` `Localxpose.io` `Cloudflared`
 
 ## DarkPhishCj7 :
-* Increíble herramienta **Phishing** en base a múltiples plantillas HTML5 actualizadas.
+* Increíble herramienta **phishing** en base a múltiples plantillas HTML5 actualizadas.
 * Más de **14 herramientas** avanzadas en el arte del phishing.
 * Personaliza **al máximo** enlaces para una mejor ingeniería social.
 * Obtén las **credenciales** como respaldo en tu correo electrónico o como mensaje en tu WhatsApp, Telegram o Discord.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
-## Sintaxis :
+## Uso :
 * Ayuda:
-~~~
-DarkPhishCj7 -h, --help
-~~~
-* Información de una IP:
-~~~
-DarkPhishCj7 --ip
-~~~
+```shell
+./DarkPhishCj7 [ -h, --help ]
+```
+* Información de una dirección IP:
+```shell
+./DarkPhishCj7 --ip
+```
 * Información de un # telefónico:
-~~~
-DarkPhishCj7 --phone
-~~~
+```shell
+./DarkPhishCj7 --phone
+```
 
 ## Instalación :
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* `git clone https://github.com/Juliocj7/DarkPhishCj7`
-
-* `cd DarkPhishCj7`
-
-* `chmod +x *`
-
-* `./DarkPhishCj7`
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/DarkPhishCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd DarkPhishCj7 && chmod +x * && ./DarkPhishCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`

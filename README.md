@@ -88,9 +88,6 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
 | ------------  | ------------ |
 ![35_lockweb](https://user-images.githubusercontent.com/81049859/171518093-a43dbfe9-56cd-45ef-a796-5fe04978b71e.png)|![35_rndweb](https://user-images.githubusercontent.com/81049859/171518073-bd1fd3c2-8602-4191-ac6e-ef213f9f5c53.png)|
 
-> Servidores: inLAN y outLAN
-> > `Localhost` `Ngrok.io` `Localhost.run` `Localtunnel.me` `Localxpose.io` `Cloudflared`
-
 ## DarkPhishCj7 :
 * Increíble herramienta **phishing** en base a múltiples plantillas HTML5 actualizadas.
 * Más de **14 herramientas** avanzadas en el arte del phishing.
@@ -118,8 +115,7 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
 > > <details>
 > >   <summary>&nbsp;𝚁𝚎𝚚𝚞𝚒𝚜𝚒𝚝𝚘 𝚒𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝𝚎 &#9995;&#127995;</summary>
 > >
-> > ###
-> > 𝙸𝚗𝚜𝚝𝚊𝚕𝚕: [𝚁𝚎𝚌𝚞𝚛𝚜𝚘𝚜 𝚋𝚊𝚜𝚒𝚌𝚘𝚜](https://github.com/Juliocj7/UtilsCj7)
+> > <sub>𝙸𝚗𝚜𝚝𝚊𝚕𝚕:</sub> [𝚁𝚎𝚌𝚞𝚛𝚜𝚘𝚜 𝚋𝚊𝚜𝚒𝚌𝚘𝚜](https://github.com/Juliocj7/UtilsCj7)
 > > </details>
 
 ###### 01. Actualizar paquetes
@@ -149,5 +145,9 @@ cd DarkPhishCj7 && chmod +x * && ./DarkPhishCj7
   </sub>
 </div>
 
----
+<div align="center">
+  <a href="#--------">
+    <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif"/>
+  </a>
+</div>
 

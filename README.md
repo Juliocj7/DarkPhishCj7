@@ -119,8 +119,7 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
 > >   <summary>&nbsp;𝚁𝚎𝚚𝚞𝚒𝚜𝚒𝚝𝚘 𝚒𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝𝚎</summary>
 > >
 > > ###
-> > 𝙸𝚗𝚜𝚝𝚊𝚕𝚊𝚛: [`𝚁𝚎𝚌𝚞𝚛𝚜𝚘𝚜 𝚋𝚊𝚜𝚒𝚌𝚘𝚜`](https://github.com/Juliocj7/UtilsCj7)
-
+> > 𝙸𝚗𝚜𝚝𝚊𝚕𝚕: [`𝚁𝚎𝚌𝚞𝚛𝚜𝚘𝚜 𝚋𝚊𝚜𝚒𝚌𝚘𝚜`](https://github.com/Juliocj7/UtilsCj7)
 > > </details>
 
 ###### 01. Actualizar paquetes

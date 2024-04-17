@@ -97,7 +97,7 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
 * Personaliza **al máximo** enlaces para una mejor ingeniería social.
 * Obtén las **credenciales** como respaldo en tu correo electrónico o como mensaje en tu WhatsApp, Telegram o Discord.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
-- > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
+* > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
 
 ## Uso :
 * Ayuda:
@@ -115,7 +115,7 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
 
 ## Instalación :
 > [!NOTE]  
-> Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
+> > Para un correcto funcionamiento de esta herramienta porfavor instale los [`recursos básicos`](https://github.com/Juliocj7/UtilsCj7) para termux.
 
 ###### 01. Actualizar paquetes
 ```shell
@@ -131,6 +131,18 @@ cd DarkPhishCj7 && chmod +x * && ./DarkPhishCj7
 ```
 
 ---
-###### `Pd: Porfavor informar cualquier error`
-###### `By: JulioCj7 +59179424937` :stuck_out_tongue_winking_eye:
+
+```ShellSession
+[𝙼𝚊𝚔𝚎@𝙱𝚢]:~$ #+59179424937 😜
+```
+
+<div align="center">
+  <sub>
+    
+  > 𝙿𝚘𝚛𝚏𝚊𝚟𝚘𝚛 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚛 𝚌𝚞𝚊𝚕𝚚𝚞𝚒𝚎𝚛 𝚎𝚛𝚛𝚘𝚛
+
+  </sub>
+</div>
+
 ---
+

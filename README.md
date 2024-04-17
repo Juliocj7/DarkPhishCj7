@@ -97,7 +97,7 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
 * Personaliza **al máximo** enlaces para una mejor ingeniería social.
 * Obtén las **credenciales** como respaldo en tu correo electrónico o como mensaje en tu WhatsApp, Telegram o Discord.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
-* > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
+- > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
 
 ## Uso :
 * Ayuda:

@@ -116,9 +116,8 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
 ## Instalación :
 > [!NOTE]
 > > <details>
-> >   <summary>&nbsp;𝚁𝚎𝚚𝚞𝚒𝚜𝚒𝚝𝚘 𝚒𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝𝚎</summary>
+> >   <summary>&nbsp;&nbsp;𝚁𝚎𝚚𝚞𝚒𝚜𝚒𝚝𝚘 𝚒𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝𝚎:</summary>
 > >
-> > ###
 > > 𝙸𝚗𝚜𝚝𝚊𝚕𝚕: [`𝚁𝚎𝚌𝚞𝚛𝚜𝚘𝚜 𝚋𝚊𝚜𝚒𝚌𝚘𝚜`](https://github.com/Juliocj7/UtilsCj7)
 > > </details>
 

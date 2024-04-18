@@ -135,7 +135,7 @@ cd DarkPhishCj7 && chmod +x * && ./DarkPhishCj7
 
 > [!CAUTION]
 > > <sub>𝚂𝚘𝚛𝚛𝚢, 𝚝𝚑𝚒𝚜 𝚒𝚜 𝚞𝚗𝚍𝚎𝚛 𝚖𝚊𝚒𝚗𝚝𝚎𝚗𝚊𝚗𝚌𝚎.</sub><br>
-> > <sub>¡ 𝙲𝚘𝚖𝚒𝚗𝚐 𝚜𝙾𝙾𝚗 !</sub>
+> > <sub>¡ 𝙰𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚌𝚘𝚖𝚒𝚗𝚐 𝚜𝙾𝙾𝚗 !</sub>
 
 ---
 

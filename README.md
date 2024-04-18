@@ -128,7 +128,7 @@ gh repo clone Juliocj7/DarkPhishCj7
 ```
 ###### 03. Ahora disfruta xD
 ```shell
-cd DarkPhishCj7 && chmod +x * && ./DarkPhishCj7
+cd DarkPhishCj7 && make start
 ```
 
 ---

@@ -120,7 +120,7 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
 
 ###### 01. Actualizar paquetes
 ```shell
-yes|{apt update && apt upgrade}
+yes|{ apt update && apt upgrade; }
 ```
 ###### 02. Clonar repositorio
 ```shell

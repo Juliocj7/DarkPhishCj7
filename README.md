@@ -60,7 +60,7 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
 
 |Website|Servers|Masking|
 |-------|-------|-------|
-|![1000329002](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/6479c174-e5dc-45df-b6f9-ecf88f274039)|![1000329003](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/cd77642c-35a1-49d6-b0d2-049a3cacf3f3)|![1000329211](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/76224a26-b1e4-4be7-a6a6-7c51852cf57b)|
+|![1000343572](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/d69894c3-bce7-4948-bae9-afb0fb6d4ddb)|![1000343573](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/0dbf4048-8dc0-490f-a68f-be34dc898b11)|![1000343574](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/2598c6f4-4170-4ca0-873d-df5564c8e680)|
 
 ![Screenshot_20220520-154459_Termux](https://user-images.githubusercontent.com/81049859/169600701-2d7aa50a-2d63-426c-82a0-ffaed0df976e.png)
 

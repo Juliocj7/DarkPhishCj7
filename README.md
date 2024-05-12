@@ -43,7 +43,7 @@ ______________________________________________________
 </div>
 
 ## Menú Principal :
-![1000329001](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/c2593ee1-e11a-43c3-bf3c-3e9306db3eb0)
+![1000343872](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/9407d90e-4860-4b8f-9a28-45b2936672e2)
 
 <div align="justify">
   <details align="center">
@@ -62,7 +62,7 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
 |-------|-------|-------|
 |![1000343572](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/d69894c3-bce7-4948-bae9-afb0fb6d4ddb)|![1000343573](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/0dbf4048-8dc0-490f-a68f-be34dc898b11)|![1000343574](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/2598c6f4-4170-4ca0-873d-df5564c8e680)|
 
-![Screenshot_20220520-154459_Termux](https://user-images.githubusercontent.com/81049859/169600701-2d7aa50a-2d63-426c-82a0-ffaed0df976e.png)
+![1000343873](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/da2285a5-27bd-4ad7-892d-8f975375f1e9)
 
 |PicPhish|UbiPhish|
 | ------------  | ------------ |

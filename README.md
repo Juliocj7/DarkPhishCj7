@@ -62,31 +62,18 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
 |-------|-------|-------|
 |![1000343572](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/d69894c3-bce7-4948-bae9-afb0fb6d4ddb)|![1000343573](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/0dbf4048-8dc0-490f-a68f-be34dc898b11)|![1000343574](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/2598c6f4-4170-4ca0-873d-df5564c8e680)|
 
-![1000343873](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/da2285a5-27bd-4ad7-892d-8f975375f1e9)
 
-|PicPhish|UbiPhish|
-| ------------  | ------------ |
-|![35_picweb](https://user-images.githubusercontent.com/81049859/171518066-9793f0c2-94bb-4735-aa54-e9df9026d2bd.png)|![35_ubiweb](https://user-images.githubusercontent.com/81049859/171518071-2a97854b-13ef-492c-a191-776578eb4b75.png)|
-
-|Spoonfing|GpsPhish|
-| ------------  | ------------ |
-![35_emailweb](https://user-images.githubusercontent.com/81049859/171518075-7ebe35be-858f-4997-8274-df7c28eb580a.png)|![35_gpsweb](https://user-images.githubusercontent.com/81049859/171518078-19877567-3426-48fa-8ad7-4fe5eff18239.png)|
-
-|GmailPhish|CamPhish|
-| ------------  | ------------ |
-![35_hackgmail](https://user-images.githubusercontent.com/81049859/171518081-9d77cef7-d50e-441a-8949-4e624ec2b8c0.png)|![35_camweb](https://user-images.githubusercontent.com/81049859/171518083-6dcaf4dc-420c-43f7-b292-e3422f064596.png)|
-
-|VidPhish|MicPhish|
-| ------------  | ------------ |
-![35_vidweb](https://user-images.githubusercontent.com/81049859/171518085-fa4e92df-0599-4d8c-a497-eaaf69d1ab4b.png)|![35_micweb](https://user-images.githubusercontent.com/81049859/171518087-f54dac89-544d-4207-84d4-c6f9cec91df1.png)|
-
-|AppPhish|NcatPhish|
-| ------------  | ------------ |
-![35_appweb](https://user-images.githubusercontent.com/81049859/171518088-9e158cc8-ed08-4da0-a9b8-cefade3fc94d.png)|![35_hackncat](https://user-images.githubusercontent.com/81049859/175192583-fc993222-a5ec-4459-8aee-1b1eea9f1a62.png)|
-
-|LockPhish|CustomCj7|
-| ------------  | ------------ |
-![35_lockweb](https://user-images.githubusercontent.com/81049859/171518093-a43dbfe9-56cd-45ef-a796-5fe04978b71e.png)|![35_rndweb](https://user-images.githubusercontent.com/81049859/171518073-bd1fd3c2-8602-4191-ac6e-ef213f9f5c53.png)|
+|darkweb |spoofweb|
+|:------:|:------:|
+|![1000347781](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/90bd74cc-e35c-456d-bdd6-533d70472eb4)|![1000347782](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/3afe99a5-3b92-4479-bd86-0602b00c7738)|
+|gmailweb|ncatweb |
+|![1000347783](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/4fe588b8-3dd8-446b-8b8c-d978a30ea628)|![1000347789](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/3d502547-ddf1-4399-af09-91c98ff24e26)|
+| camweb | micweb |
+|![1000347795](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/4e4e4756-b826-4bc5-b7fa-bfdf8e56b25e)|![1000347793](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/45f39880-6fd5-465f-825a-642290c37c0e)|
+| vidweb | gpsweb |
+|![1000347791](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/2406d3b4-6571-4ed0-af5e-962671aad249)|![1000347796](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/d28962f0-f7f1-446a-97ca-9aa7d9d57ad9)|
+| appweb |lockweb |
+|![1000347794](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/abbb0fa3-cfac-4b87-aac6-1ca8a1dd5507)|![1000347785](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/df658e19-cc81-42c1-b0ba-dd2e16d9a1a1)|
 
 ## DarkPhishCj7 :
 * Increíble herramienta **phishing** en base a múltiples plantillas HTML5 actualizadas.

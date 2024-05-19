@@ -67,7 +67,7 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
 |:------:|:------:|
 |![1000347781](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/90bd74cc-e35c-456d-bdd6-533d70472eb4)|![1000347782](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/3afe99a5-3b92-4479-bd86-0602b00c7738)|
 |gmailweb|ncatweb |
-|![1000347783](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/4fe588b8-3dd8-446b-8b8c-d978a30ea628)|![1000347789](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/3d502547-ddf1-4399-af09-91c98ff24e26)|
+|![1000347783](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/4fe588b8-3dd8-446b-8b8c-d978a30ea628)|![1000347908](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/068a977f-3568-43ee-9cbe-208a9e93f8a4)|
 | camweb | micweb |
 |![1000347795](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/4e4e4756-b826-4bc5-b7fa-bfdf8e56b25e)|![1000347793](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/45f39880-6fd5-465f-825a-642290c37c0e)|
 | vidweb | gpsweb |

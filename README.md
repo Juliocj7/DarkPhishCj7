@@ -66,7 +66,7 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
 |:------:|:------:|
 |![1000350654](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/8a859d57-d41a-44ee-ad3d-f8cb6b058d0b)|![1000350656](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/35fdcc1d-819d-431b-9416-35d90522bfdf)|
 |gmailweb|ncatweb |
-|![1000350676](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/a51ea38c-933b-435a-b70f-9ac72fb9d47b)|![1000350726](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/a6762655-3f87-407b-b444-b5891e2dc18f)|
+|![1000350676](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/a51ea38c-933b-435a-b70f-9ac72fb9d47b)|![1000351285](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/a32b6599-8de8-483d-8c9e-56527e24ebe2)|
 | camweb | micweb |
 |![1000350564](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/9f8dd5c5-9d0c-4d69-9da1-0be6c493865a)|![1000350678](https://github.com/Juliocj7/DarkPhishCj7/assets/81049859/7b912d41-b342-4c85-b697-aae1b8a90964)|
 | vidweb | gpsweb |
